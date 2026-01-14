@@ -5,4 +5,4 @@ Android IP camera application in Java, streaming MJPEG over HTTP.Minimal UI.
   
 <img width="540" height="1068" alt="image" src="https://github.com/user-attachments/assets/167ac910-b88c-4907-9326-d517797f3b7f" />
 
-<img width="1225" height="836" alt="image" src="https://github.com/user-attachments/assets/807bd8d6-ec26-4ea3-ad8f-c966e1d04a1f" />
+<img width="1556" height="1053" alt="image" src="https://github.com/user-attachments/assets/cb7a2d45-50f0-4545-bfda-ae817324dcf6" />
